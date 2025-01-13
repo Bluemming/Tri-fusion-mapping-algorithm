@@ -73,4 +73,4 @@
 
 ## 분석 상세
 
-
+<img src="./images/Tri-fusion(0).jpg">
